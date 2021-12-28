@@ -1,0 +1,17 @@
+2021-12-28 12:31:13.434 -05:00 [INF] Worker running at: "2021-12-28T12:31:13.4142040-05:00"
+2021-12-28 12:31:13.465 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-12-28 12:31:13.467 -05:00 [INF] Hosting environment: Development
+2021-12-28 12:31:13.468 -05:00 [INF] Content root path: G:\Repositorios GitHub\Demo_WorkerServiceWithCoravel\Demo_WorkerServiceWithCoravel
+2021-12-28 12:31:14.814 -05:00 [INF] Worker running at: "2021-12-28T12:31:14.8013416-05:00"
+2021-12-28 12:31:15.832 -05:00 [INF] Worker running at: "2021-12-28T12:31:15.8260780-05:00"
+2021-12-28 12:31:16.849 -05:00 [INF] Worker running at: "2021-12-28T12:31:16.8474538-05:00"
+2021-12-28 12:31:17.857 -05:00 [INF] Worker running at: "2021-12-28T12:31:17.8563782-05:00"
+2021-12-28 12:31:18.874 -05:00 [INF] Worker running at: "2021-12-28T12:31:18.8732254-05:00"
+2021-12-28 12:31:19.895 -05:00 [INF] Worker running at: "2021-12-28T12:31:19.8913978-05:00"
+2021-12-28 12:31:20.917 -05:00 [INF] Worker running at: "2021-12-28T12:31:20.9144447-05:00"
+2021-12-28 12:31:21.924 -05:00 [INF] Worker running at: "2021-12-28T12:31:21.9229200-05:00"
+2021-12-28 12:31:22.940 -05:00 [INF] Worker running at: "2021-12-28T12:31:22.9382630-05:00"
+2021-12-28 12:31:23.943 -05:00 [INF] Worker running at: "2021-12-28T12:31:23.9415480-05:00"
+2021-12-28 12:31:24.950 -05:00 [INF] Worker running at: "2021-12-28T12:31:24.9482575-05:00"
+2021-12-28 12:31:26.074 -05:00 [INF] Worker running at: "2021-12-28T12:31:26.0723838-05:00"
+2021-12-28 12:31:26.376 -05:00 [INF] Application is shutting down...
